@@ -1,0 +1,83 @@
+{
+  "schema": "EUCLIDEAN-DIAM-CERT-1.0",
+  "mode": "variance_certificate_alg4",
+  "cert_id": "m1_alg4_4d_cross_eta1_8",
+  "dimension": 4,
+  "sample_points": [
+    [
+      "4",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "-2",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "3",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "-3",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "3",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "-2",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "3"
+    ],
+    [
+      "1",
+      "1",
+      "1",
+      "-2"
+    ]
+  ],
+  "eta": "1/8",
+  "start_idx": 1,
+  "test_query_y": [
+    "-5",
+    "4",
+    "3",
+    "2"
+  ],
+  "claimed_b_idx": 0,
+  "claimed_iterations": 0,
+  "claimed_support_indices": [
+    0,
+    1
+  ],
+  "claimed_weights": [
+    "1/2",
+    "1/2"
+  ],
+  "claimed_mean": [
+    "1",
+    "0",
+    "0",
+    "0"
+  ],
+  "claimed_variance": "9",
+  "claimed_max_r2": "10",
+  "claimed_candidate_H2": "110"
+}

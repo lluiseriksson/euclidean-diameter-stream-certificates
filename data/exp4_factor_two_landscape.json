@@ -1,0 +1,35 @@
+{
+  "factor_two_table3": {
+    "hull_sq": "3999122/1000000",
+    "hull_sq_dec": 3.999122,
+    "mixed_sq": "39898284241/10000000000",
+    "mixed_sq_dec": 3.9898284241,
+    "cand_sq": "20201/10000",
+    "cand_sq_dec": 2.0201,
+    "target_c_sq": "4",
+    "eps_exact_lb": "1/6345504000",
+    "eps_dec": 1.5759189498580412e-10
+  },
+  "approx_thresholds": [
+    {
+      "label": "Insertion-only lower bound (AS15)",
+      "val": 1.4142135623730951,
+      "exact": "sqrt(2)"
+    },
+    {
+      "label": "Hull barrier (Giliberti-Hajiaghayi Thm. 1.1)",
+      "val": 1.7320508075688772,
+      "exact": "sqrt(3)"
+    },
+    {
+      "label": "Appendix A.1 hull factor (a=1581/1000)",
+      "val": 1.9997804879536154,
+      "exact": "sqrt(3.999122)"
+    },
+    {
+      "label": "Factor-two target guarantee (Table 1)",
+      "val": 2.0,
+      "exact": "2"
+    }
+  ]
+}

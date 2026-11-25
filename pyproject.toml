@@ -1,0 +1,10 @@
+[project]
+name = "euclidean-diameter-stream-certificates"
+version = "1.0.0"
+description = "Machine-checked Lean 4 kernel and exact-Q certificate auditor for Euclidean diameter in dynamic streams (Giliberti & Hajiaghayi, arXiv:2611.33139)."
+authors = [{ name = "Lluis Eriksson" }]
+license = { text = "MIT" }
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

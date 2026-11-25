@@ -1,0 +1,22 @@
+import EuclideanDiameterStream
+
+open EuclideanDiameterStream
+
+#print axioms parallel_axis_cleared_identity
+#print axioms hull_diameter_cauchy_schwarz
+#print axioms hull_sqrt3_barrier
+#print axioms two_simplex_tightness_exact
+#print axioms bounded_witness_radius
+#print axioms algorithm4_variance_update_identity
+#print axioms algorithm4_variance_growth_lb
+#print axioms algorithm4_variance_cap_8V0
+#print axioms candidate_score_cauchy_schwarz
+#print axioms spherical_cap_345_containment
+#print axioms potential_quadratic_margin_sos
+#print axioms potential_monotone_eq29_identity
+#print axioms first_mask_endpoint_exact
+#print axioms second_mask_empty_exact
+#print axioms factor_two_table3_three_cases
+#print axioms appendix_a1_oracle_and_coupling_exact
+#print axioms rebuild_geometric_shrinkage
+#print axioms appendix_a1_scale_chain_and_exponents

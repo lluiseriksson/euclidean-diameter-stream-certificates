@@ -1,0 +1,77 @@
+{
+  "LS_sq": "40",
+  "rows": [
+    {
+      "a": "71/50",
+      "a_dec": 1.42,
+      "hull_sq_exact": "3791/1250",
+      "hull_factor_dec": 1.741494,
+      "attained_sq_ratio_exact": "301401/100000",
+      "attained_factor_dec": 1.73609
+    },
+    {
+      "a": "29/20",
+      "a_dec": 1.45,
+      "hull_sq_exact": "641/200",
+      "hull_factor_dec": 1.790251,
+      "attained_sq_ratio_exact": "316969/100000",
+      "attained_factor_dec": 1.780362
+    },
+    {
+      "a": "3/2",
+      "a_dec": 1.5,
+      "hull_sq_exact": "7/2",
+      "hull_factor_dec": 1.870829,
+      "attained_sq_ratio_exact": "344569/100000",
+      "attained_factor_dec": 1.856257
+    },
+    {
+      "a": "31/20",
+      "a_dec": 1.55,
+      "hull_sq_exact": "761/200",
+      "hull_factor_dec": 1.950641,
+      "attained_sq_ratio_exact": "3721/1000",
+      "attained_factor_dec": 1.928989
+    },
+    {
+      "a": "1581/1000",
+      "a_dec": 1.581,
+      "hull_sq_exact": "1999561/500000",
+      "hull_factor_dec": 1.99978,
+      "attained_sq_ratio_exact": "12168/3125",
+      "attained_factor_dec": 1.973261
+    },
+    {
+      "a": "33/20",
+      "a_dec": 1.65,
+      "hull_sq_exact": "889/200",
+      "hull_factor_dec": 2.108317,
+      "attained_sq_ratio_exact": "106929/25000",
+      "attained_factor_dec": 2.06813
+    },
+    {
+      "a": "7/4",
+      "a_dec": 1.75,
+      "hull_sq_exact": "41/8",
+      "hull_factor_dec": 2.263846,
+      "attained_sq_ratio_exact": "485809/100000",
+      "attained_factor_dec": 2.204108
+    },
+    {
+      "a": "19/10",
+      "a_dec": 1.9,
+      "hull_sq_exact": "311/50",
+      "hull_factor_dec": 2.493993,
+      "attained_sq_ratio_exact": "576081/100000",
+      "attained_factor_dec": 2.400169
+    },
+    {
+      "a": "2",
+      "a_dec": 2.0,
+      "hull_sq_exact": "7",
+      "hull_factor_dec": 2.645751,
+      "attained_sq_ratio_exact": "32/5",
+      "attained_factor_dec": 2.529822
+    }
+  ]
+}

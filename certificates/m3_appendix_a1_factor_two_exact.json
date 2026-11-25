@@ -1,0 +1,53 @@
+{
+  "schema": "EUCLIDEAN-DIAM-CERT-1.0",
+  "mode": "factor_two_two_cap_audit",
+  "cert_id": "m3_appendix_a1_factor_two_exact",
+  "target_c": "2",
+  "a": "1581/1000",
+  "q_scale": "5001/5000",
+  "lambda_0": "7903/5000",
+  "lambda_val": "79/50",
+  "eta_mask": "1/20",
+  "r2": "4/5",
+  "cap_split_t0": "3/5",
+  "cap_test_points": [
+    [
+      "3/5",
+      "16/25"
+    ],
+    [
+      "3/5",
+      "0"
+    ],
+    [
+      "4/5",
+      "9/25"
+    ],
+    [
+      "1",
+      "0"
+    ],
+    [
+      "7/10",
+      "1/2"
+    ]
+  ],
+  "eta_in": "1/100",
+  "kappa": "109/100",
+  "b0": "27/25",
+  "nu": "1/10000",
+  "e0": "1/400",
+  "B_kappa": 2000,
+  "s": "1/2003",
+  "G": 32,
+  "taylor_deg_half": 3,
+  "taylor_deg_e": 4,
+  "target_eps": "1/10000000000",
+  "claimed_hull_sq": "1999561/500000",
+  "claimed_mixed_sq": "39898284241/10000000000",
+  "claimed_cand_sq": "20201/10000",
+  "claimed_m_second_mask": "1241/5000",
+  "claimed_second_mask_lb": "16133/24000",
+  "claimed_oracle_lhs": "1084441/1000000",
+  "claimed_eps_lb": "1/6345504000"
+}

@@ -1,0 +1,11 @@
+.lake/
+__pycache__/
+.pytest_cache/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+pdflatex*.log
+bibtex.log

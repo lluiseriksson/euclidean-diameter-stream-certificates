@@ -1,0 +1,214 @@
+{
+  "lambda": "79/50",
+  "m_exact": "1241/5000",
+  "first_mask_thr": "21/20",
+  "second_mask_thr": "84/125",
+  "F_profile": [
+    {
+      "t": "-9/10",
+      "t_dec": -0.9,
+      "x_exp_dec": 31.370526,
+      "F_lb_dec": 69590321.57539
+    },
+    {
+      "t": "-4/5",
+      "t_dec": -0.8,
+      "x_exp_dec": 14.734444,
+      "F_lb_dec": 119073.428848
+    },
+    {
+      "t": "-7/10",
+      "t_dec": -0.7,
+      "x_exp_dec": 9.192941,
+      "F_lb_dec": 3422.615889
+    },
+    {
+      "t": "-3/5",
+      "t_dec": -0.6,
+      "x_exp_dec": 6.425625,
+      "F_lb_dec": 370.371998
+    },
+    {
+      "t": "-1/2",
+      "t_dec": -0.5,
+      "x_exp_dec": 4.768533,
+      "F_lb_dec": 87.430131
+    },
+    {
+      "t": "-2/5",
+      "t_dec": -0.4,
+      "x_exp_dec": 3.667143,
+      "F_lb_dec": 32.829283
+    },
+    {
+      "t": "-3/10",
+      "t_dec": -0.3,
+      "x_exp_dec": 2.883956,
+      "F_lb_dec": 16.271826
+    },
+    {
+      "t": "-1/5",
+      "t_dec": -0.2,
+      "x_exp_dec": 2.300417,
+      "F_lb_dec": 9.578923
+    },
+    {
+      "t": "-1/10",
+      "t_dec": -0.1,
+      "x_exp_dec": 1.850909,
+      "F_lb_dec": 6.301922
+    },
+    {
+      "t": "0",
+      "t_dec": 0.0,
+      "x_exp_dec": 1.4964,
+      "F_lb_dec": 4.465582
+    },
+    {
+      "t": "1/10",
+      "t_dec": 0.1,
+      "x_exp_dec": 1.212525,
+      "F_lb_dec": 3.328344
+    },
+    {
+      "t": "1/5",
+      "t_dec": 0.2,
+      "x_exp_dec": 0.98375,
+      "F_lb_dec": 2.567488
+    },
+    {
+      "t": "3/10",
+      "t_dec": 0.3,
+      "x_exp_dec": 0.80044,
+      "F_lb_dec": 2.026133
+    },
+    {
+      "t": "2/5",
+      "t_dec": 0.4,
+      "x_exp_dec": 0.657619,
+      "F_lb_dec": 1.621361
+    },
+    {
+      "t": "1/2",
+      "t_dec": 0.5,
+      "x_exp_dec": 0.5552,
+      "F_lb_dec": 1.306717
+    },
+    {
+      "t": "3/5",
+      "t_dec": 0.6,
+      "x_exp_dec": 0.500625,
+      "F_lb_dec": 1.055841
+    },
+    {
+      "t": "7/10",
+      "t_dec": 0.7,
+      "x_exp_dec": 0.518431,
+      "F_lb_dec": 0.85649
+    },
+    {
+      "t": "4/5",
+      "t_dec": 0.8,
+      "x_exp_dec": 0.69,
+      "F_lb_dec": 0.717738
+    },
+    {
+      "t": "9/10",
+      "t_dec": 0.9,
+      "x_exp_dec": 1.433684,
+      "F_lb_dec": 0.796883
+    }
+  ],
+  "second_mask_taylor": [
+    {
+      "deg": 1,
+      "e_lb_exact": "2",
+      "em_exact": "1241/2500",
+      "em_dec": 0.4964,
+      "margin_exact": "-439/2500",
+      "margin_dec": -0.1756,
+      "passes": false
+    },
+    {
+      "deg": 2,
+      "e_lb_exact": "5/2",
+      "em_exact": "1241/2000",
+      "em_dec": 0.6205,
+      "margin_exact": "-103/2000",
+      "margin_dec": -0.0515,
+      "passes": false
+    },
+    {
+      "deg": 3,
+      "e_lb_exact": "8/3",
+      "em_exact": "1241/1875",
+      "em_dec": 0.6618667,
+      "margin_exact": "-19/1875",
+      "margin_dec": -0.0101333,
+      "passes": false
+    },
+    {
+      "deg": 4,
+      "e_lb_exact": "65/24",
+      "em_exact": "16133/24000",
+      "em_dec": 0.6722083,
+      "margin_exact": "1/4800",
+      "margin_dec": 0.0002083,
+      "passes": true
+    },
+    {
+      "deg": 5,
+      "e_lb_exact": "163/60",
+      "em_exact": "202283/300000",
+      "em_dec": 0.6742767,
+      "margin_exact": "683/300000",
+      "margin_dec": 0.0022767,
+      "passes": true
+    },
+    {
+      "deg": 6,
+      "e_lb_exact": "1957/720",
+      "em_exact": "2428637/3600000",
+      "em_dec": 0.6746214,
+      "margin_exact": "9437/3600000",
+      "margin_dec": 0.0026214,
+      "passes": true
+    },
+    {
+      "deg": 7,
+      "e_lb_exact": "685/252",
+      "em_exact": "170017/252000",
+      "em_dec": 0.6746706,
+      "margin_exact": "673/252000",
+      "margin_dec": 0.0026706,
+      "passes": true
+    },
+    {
+      "deg": 8,
+      "e_lb_exact": "109601/40320",
+      "em_exact": "136014841/201600000",
+      "em_dec": 0.6746768,
+      "margin_exact": "539641/201600000",
+      "margin_dec": 0.0026768,
+      "passes": true
+    },
+    {
+      "deg": 9,
+      "e_lb_exact": "98641/36288",
+      "em_exact": "122413481/181440000",
+      "em_dec": 0.6746775,
+      "margin_exact": "485801/181440000",
+      "margin_dec": 0.0026775,
+      "passes": true
+    },
+    {
+      "deg": 10,
+      "e_lb_exact": "9864101/3628800",
+      "em_exact": "12241349341/18144000000",
+      "em_dec": 0.6746775,
+      "margin_exact": "48581341/18144000000",
+      "margin_dec": 0.0026775,
+      "passes": true
+    }
+  ]
+}

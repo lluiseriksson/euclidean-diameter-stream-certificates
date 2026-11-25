@@ -1,0 +1,60 @@
+{
+  "schema": "EUCLIDEAN-DIAM-CERT-1.0",
+  "mode": "variance_hull_and_tightness",
+  "cert_id": "m2_hull_2d_square_a5_3",
+  "dimension": 2,
+  "sample_points": [
+    [
+      "-3",
+      "3"
+    ],
+    [
+      "-3",
+      "-3"
+    ],
+    [
+      "3",
+      "3"
+    ],
+    [
+      "3",
+      "-3"
+    ]
+  ],
+  "hull_a": "5/3",
+  "dist_lambda": [
+    "1/2",
+    "1/2",
+    "0",
+    "0"
+  ],
+  "dist_gamma": [
+    "0",
+    "0",
+    "1/2",
+    "1/2"
+  ],
+  "hull_point_y1": [
+    "-7",
+    "0"
+  ],
+  "hull_point_y2": [
+    "7",
+    "0"
+  ],
+  "exterior_point_y": [
+    "10",
+    "0"
+  ],
+  "witness_center_q": [
+    "0",
+    "0"
+  ],
+  "coord_bound_Delta": "10",
+  "claimed_LS_sq": "72",
+  "claimed_V_lambda": "9",
+  "claimed_V_gamma": "9",
+  "claimed_h_sq": "36",
+  "claimed_y1_y2_sq": "196",
+  "claimed_RS_q_sq": "18"
+}
